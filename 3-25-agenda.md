@@ -4,6 +4,6 @@ Learn how you can create effective online events for your local community.
 **AGENDA**: 
 - [Best tools for livestreaming](best-streaming-tools.md)
 - [How to pick online workshop content](choosing-content.md)
-- [How to shift in-person content to a virtual format](Virtual-best-practices.md)
+- [How to shift in-person content to a virtual format](virtual-best-practices.md)
 - [Key learnings from Reactor workshops](reactor-content-learnings)
 - Q&A
