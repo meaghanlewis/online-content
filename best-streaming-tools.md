@@ -1,10 +1,10 @@
 ## Best streaming tools
 
 - [Twitch](https://github.com/meaghanlewis/online-content/blob/master/best-streaming-tools.md#twitch)
-- YouTube
-- Mixer
-- Teams
-- Zoom
+- [YouTube](https://github.com/meaghanlewis/online-content/blob/master/best-streaming-tools.md#youtube)
+- [Mixer](https://github.com/meaghanlewis/online-content/blob/master/best-streaming-tools.md#mixer)
+- [Teams](https://github.com/meaghanlewis/online-content/blob/master/best-streaming-tools.md#teams)
+- [Zoom](https://github.com/meaghanlewis/online-content/blob/master/best-streaming-tools.md#zoom)
 
 ## [Twitch](https://www.twitch.tv/)
 About:
