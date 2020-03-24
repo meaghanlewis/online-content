@@ -1,6 +1,6 @@
 ## Best streaming tools
 
-- Twitch
+- [Twitch](https://github.com/meaghanlewis/online-content/blob/master/best-streaming-tools.md#twitch)
 - YouTube
 - Mixer
 - Teams
