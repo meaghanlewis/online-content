@@ -9,13 +9,12 @@
 ## [Twitch](https://www.twitch.tv/)
 About:
 - Twitch is where millions of people come together live every day to chat, interact, and make their own entertainment together.
-- Most popular streaming service (15M MAU)
+- Most popular streaming service with over 15M MAU
 - Can easily join with an email address
-- Can share twitch channel link and anyone can join
+- Can share twitch channel link and anyone can watch stream
 - Need to create Twitch account with an email
 - Need to use a broadcasting tool like OBS
-  - Download: https://obsproject.com/
-  - OBS setup: https://obsproject.com/help
+  - Download and setup instructions: https://obsproject.com/
   
 Resources:
 - Broadcasting tools: https://help.twitch.tv/s/article/recommended-software-for-broadcasting
@@ -23,8 +22,13 @@ Resources:
 
 ## [YouTube](https://www.youtube.com/)
 About:
+- Watch, create and share your favorite music and creative content
 - Record and upload videos
-- Live option
+- Live streaming option
+
+Resources:
+- How to upload to YouTube: https://www.youtube.com/watch?v=klVWGHtRTuE
+- Intro to live streaming on YouTube: https://support.google.com/youtube/answer/2474026
 
 ## [Mixer](https://mixer.com/)
 About:
@@ -38,18 +42,17 @@ Resources:
 
 ## [Teams](https://teams.microsoft.com/)
 About: 
-- Communication and collaboration platform that combines persistent workplace chat, video meetings, file storage, and application integration
+- Communication and collaboration platform that combines chat, video meetings, file storage, and application integration
 - Easy setup with Microsoft account
 - Allows guest access
 
 ## [Zoom](https://zoom.us/)
-About: 
-- Easy and free video and chat
-- Host up to 100 participants in one call
+About:
+- Remote conferencing service that combines video conferencing, online meetings, and chat
+- Host up to 100 participants in one call with free account
 - Good video conferencing features
 - Allows guest access
-- Easy setup with email
-- Join calls with phone
+- Easy signup with email
 
 ## Other things that would be helpful:
 - a mic
