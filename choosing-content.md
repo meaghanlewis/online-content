@@ -1,20 +1,12 @@
 # Choosing content
 
+Start by thinking about these 4 things:
 - Things you already know
+  - What content do you already have and can reuse or repurpose?
 - Things you want to know
+  - What's a question you want to answer or a topic you want to explore more?
 - Things other people want to know
+  - What is something you've learned or a skill you have you can share?
 - Things you want to learn
-
-## Take inventory and reuse
-- What content do you already have?
-
-## Create something new
-- What content might you want to develop?
-- What's something new you want to learn?
-- Focus on one topic or a variety? Breadth vs depth?
-
-## Tips
-- Reuse content whenever possible
-- Keep virtual events to an hour
-
+  - What's something you want to learn about and can share your journey about learning?
 
