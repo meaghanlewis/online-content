@@ -13,7 +13,7 @@ About:
 - Can easily join with an email address
 - Can share twitch channel link and anyone can watch stream
 - Need to create Twitch account with an email
-- Need to use a broadcasting tool like OBS
+- Need to use a broadcasting tool like OBS/Streamlabs/XSplit
   - Download and setup instructions: https://obsproject.com/
   
 Resources:
@@ -24,7 +24,7 @@ Resources:
 About:
 - Watch, create and share your favorite music and creative content
 - Record and upload videos
-- Live streaming option
+- Live streaming option (ultra-low latency supported)
 
 Resources:
 - How to upload to YouTube: https://www.youtube.com/watch?v=klVWGHtRTuE
@@ -32,7 +32,7 @@ Resources:
 
 ## [Mixer](https://mixer.com/)
 About:
-- Interactive streaming platform for gaming and creative communities
+- Interactive streaming platform for gaming and creative communities (low latency supported)
 - Sign up with Twitter, Discord, or Microsoft account
 - Allows for co-streaming of up to 4 guests
 - Integrated with Xbox One and Windows 10
@@ -43,8 +43,9 @@ Resources:
 ## [Teams](https://teams.microsoft.com/)
 About: 
 - Communication and collaboration platform that combines chat, video meetings, file storage, and application integration
+- Host up to 250 members in a Teams meeting with unlimited duration of up to 10,000 members for up to 4 hours in a Live Event
 - Easy setup with Microsoft account
-- Allows guest access
+- Allows guest access (no need for sign-in)
 
 ## [Zoom](https://zoom.us/)
 About:
@@ -55,6 +56,6 @@ About:
 - Easy signup with email
 
 ## Other things that would be helpful:
-- a mic
-- headphones
-- quiet space
+- Microphone
+- Headphones
+- Quiet space
