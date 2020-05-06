@@ -1,3 +1,4 @@
+
 ## Best streaming tools
 
 - [Twitch](https://github.com/meaghanlewis/online-content/blob/master/best-streaming-tools.md#twitch)
@@ -41,11 +42,26 @@ Resources:
 - Start streaming on Mixer: https://mixer.com/dashboard/onboarding
 
 ## [Teams](https://teams.microsoft.com/)
-About: 
-- Communication and collaboration platform that combines chat, video meetings, file storage, and application integration
-- Host up to 250 members in a Teams meeting with unlimited duration of up to 10,000 members for up to 4 hours in a Live Event
-- Easy setup with Microsoft account
-- Allows guest access (no need for sign-in)
+### About: 
+ - Communication and collaboration platform that combines chat, video meetings, file storage, and application integration
+ - Host up to 250 members in a Teams meeting with unlimited duration of up to 20,000 members for up to 16 hours in a Live Event
+ - Easy setup with Microsoft account
+ - Allows guest access (no need for sign-in)
+ 
+#### Meetings:
+- Number of participants that can now be viewed simultaneously has been increased to 9 (staged roll out which may take a few weeks)
+- A raise hands feature to show people that you want to speak (expected to roll out next week)
+- Background effects (later in May you will be able to upload your own custom backgrounds (officially supported, yes I know there is a way to change it currently))
+- iOS (iPhones and iPads) now will get background blur for video
+- Live captions for iOS and Android
+- End meeting for all participants option
+- Recording 1:1 calls enabled, you used to have to set up a meeting
+
+### Live Events: 
+- can now hold up to 20,000 attendees
+- 50 events can now be hosted across a tenant
+- time limit for live events increased to 16 hours
+- Presenters and producers can now share system audio from the Windows Teams Desktop App
 
 ## [Zoom](https://zoom.us/)
 About:
