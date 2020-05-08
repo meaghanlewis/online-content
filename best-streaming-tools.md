@@ -57,7 +57,7 @@ Resources:
 - End meeting for all participants option
 - Recording 1:1 calls enabled, you used to have to set up a meeting
 
-### Live Events: 
+#### Live Events: 
 - can now hold up to 20,000 attendees
 - 50 events can now be hosted across a tenant
 - time limit for live events increased to 16 hours
