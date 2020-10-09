@@ -44,9 +44,12 @@ Resources:
 ## [Teams](https://teams.microsoft.com/)
 ### About: 
  - Communication and collaboration platform that combines chat, video meetings, file storage, and application integration
- - Host up to 250 members in a Teams meeting with unlimited duration of up to 20,000 members for up to 16 hours in a Live Event
+ - Host up to 300 members in a Teams meeting with unlimited duration of up to 10,000 members for up to 4 hours in a Live Event
+ - Concurrent Live Events running in a Microsoft 365 or Office 365 environment: 15
+ NOTE: This limit has temporarily increased till Janurary 1st of 2021 to 20,000 attendees, 16 hours and 50 concurrent live events.
  - Easy setup with Microsoft account
  - Allows guest access (no need for sign-in)
+ - NDI feature
  
 #### Meetings:
 - Number of participants that can now be viewed simultaneously has been increased to 9 (staged roll out which may take a few weeks)
@@ -58,10 +61,12 @@ Resources:
 - Recording 1:1 calls enabled, you used to have to set up a meeting
 
 ### Live Events: 
-- can now hold up to 20,000 attendees
-- 50 events can now be hosted across a tenant
-- time limit for live events increased to 16 hours
+- can now hold up to 10,000 attendees
+- 15 Live Event can now be hosted across a tenant
+- time limit for live events increased to 4 hours
 - Presenters and producers can now share system audio from the Windows Teams Desktop App
+ NOTE: This limit has temporarily increased till Janurary 1st of 2021 to 20,000 attendees, 16 hours and 50 concurrent live events.
+
 
 ## [Zoom](https://zoom.us/)
 About:
